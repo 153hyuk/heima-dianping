@@ -2,7 +2,9 @@
 nginx-1.18.0/logs/
 nginx-1.18.0/html/
 nginx-1.18.0/temp/
+nginx.pid
 *.log
+*.logs
 
 # 忽略系统文件
 .DS_Store
