@@ -1,5 +1,7 @@
-# 忽略 Nginx 日志
+# 忽略 Nginx 运行时产生的文件
 nginx-1.18.0/logs/
+nginx-1.18.0/html/
+nginx-1.18.0/temp/
 *.log
 
 # 忽略系统文件
